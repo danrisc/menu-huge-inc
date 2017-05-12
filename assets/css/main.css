@@ -129,8 +129,7 @@ nav .nav-background {
   	display: block;
   	padding: 8px 0 0;
   	letter-spacing: -0.06em;
- 
-	text-decoration: none;
+    text-decoration: none;
   }
   
   nav ul li a:hover{
@@ -140,7 +139,7 @@ nav .nav-background {
   }
   
  nav.open .logo{
- 	background-image: url(../img/icon/logo_white.png);
+ 	background-image: url('../../assets/img/logo.png');
  }
  
   nav.open ul{
@@ -177,7 +176,7 @@ nav .nav-background {
  }
  
  nav.solid #logo .logo{
- 	background-image: url(../img/icon/logo_white.png);
+ 	background-image: url('../../assets/img/logo.png');
  }
  
  .overflow-hidden{
